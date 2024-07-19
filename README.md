@@ -16,12 +16,6 @@ Welcome to the "Your Journal" mobile app repository! This project was developed 
   
 ## Development Process 🛠️
 The development of "Your Journal" was completed over six weeks during my summer internship. Below is an outline of the weekly activities and progress:
-- [📅 Week 1: Orientation and Learning Flutter](#week-1-orientation-and-learning-flutter)
-- [📅 Week 2: Project Ideation and Planning](#week-2-project-ideation-and-planning)
-- [📅 Week 3: Development of Core Features](#week-3-development-of-core-features)
-- [📅 Week 4: Advanced Features and Data Management](#week-4-advanced-features-and-data-management)
-- [📅 Week 5: Testing and Debugging](#week-5-testing-and-debugging)
-- [📅 Week 6: Finalization and Documentation](#week-6-finalization-and-documentation)
 
 ### 📅 Week 1: Orientation and Learning Flutter
 **Objectives:**
@@ -135,6 +129,13 @@ The development of "Your Journal" was completed over six weeks during my summer 
 **Learnings:**
 - Improved skills in technical documentation and reporting.
 - Learned the importance of detailed documentation for project handover and future maintenance.
+
+## Screenshots
+
+Here are some screenshots of the "Your Journal" mobile app:
+![Note-Taking Screen](path/to/note-taking-screenshot.png)
+*Write and save your daily notes.*
+
 
 ## Source Code
 The source code for this project can be found on Bitbucket: [Your Journal Source Code](https://bitbucket.org/work95/your-journal/src/main/)
