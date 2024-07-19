@@ -135,3 +135,6 @@ The development of "Your Journal" was completed over six weeks during my summer 
 **Learnings:**
 - Improved skills in technical documentation and reporting.
 - Learned the importance of detailed documentation for project handover and future maintenance.
+
+## Source Code
+The source code for this project can be found on Bitbucket: [Your Journal Source Code](https://bitbucket.org/work95/your-journal/src/main/)
